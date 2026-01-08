@@ -3,12 +3,16 @@
 ### Facultad de Ingeniería Eléctrica y Electrónica
 Trabajo de Integración Curricular
 
-ANEXO1: Guía de instalación de Ollama, levantamiento de LlaMA4:maverick en servidor remoto, implementacion de Servicio de Imagenes (A1.1) y Tablas (A1.2).
+ANEXO1: Flujo de procedimiento que realiza el sistema para la Transpilación y la Contextualización.
 
-ANEXO2: Código completo de DeepTeXTag: DESCRIPCIÓN MEJORADA DE UNA IMAGEN EN UN ARCHIVO LATEX.
+ANEXO2: Formato de la encuesta SUS tomada a cada persona que probó el sistema.
 
-ANEXO3: Código completo de DeepGraphTeller: Servicio adicional de procesamiento de Tablas.
+ANEXO3: Resultados del test realizado a los modelos, donde se evalúa la latencia, BLEU, Levenshtein, Coseno.
 
-ANEXO4: Acuerdo de Consentimiento firmado por la Asociación de Invidentes Milton Vedado.
+ANEXO4: Resultados promedios de la latencia de todos los modelos LLM envaluados.
 
-ANEXO5: Encuesta para validar la Calidad del servicio - Resultados de la encuesta Calidad del Servicio. (5 - 5.1 - 5.2 - 5.3 - 5.4)
+ANEXO5: Resultado de la rubrica de logros para cada participante que realizó los ejercicios.
+
+ANEXO6: Resultado de las encuestas SUS realizadas a los participantes que probaron el prototipo.
+
+ANEXO7: 
