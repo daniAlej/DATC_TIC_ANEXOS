@@ -15,4 +15,4 @@ ANEXO5: Resultado de la rubrica de logros para cada participante que realizó lo
 
 ANEXO6: Resultado de las encuestas SUS realizadas a los participantes que probaron el prototipo.
 
-ANEXO7: 
+ANEXO7: Archivo de los 4 niveles de complejidad de código que se utilizó para hacer las pruebas para los modelos LLM, cada nivel se hace para la Transpilación y para la Contextualización.
